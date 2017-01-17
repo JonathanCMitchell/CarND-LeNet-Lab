@@ -6,6 +6,9 @@ lenet.index
 lenet.meta*
 *.sw*
 
+Untitled.ipynb
+LeNet-Lab-Solution.ipynb
+lenet*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -96,4 +99,3 @@ ENV/
 # Rope project settings
 .ropeproject
 
-Untitled.ipynb
